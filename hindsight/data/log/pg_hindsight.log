@@ -21,3 +21,35 @@
 2026-07-12 19:09:27.250 CST [31284] 日志:  checkpoint complete: wrote 333 buffers (2.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=33.465 s, sync=0.213 s, total=33.691 s; sync files=105, longest=0.004 s, average=0.003 s; distance=1983 kB, estimate=2895 kB; lsn=0/F32EE98, redo lsn=0/F32EE08
 2026-07-12 19:13:53.251 CST [31284] 日志:  checkpoint starting: time
 2026-07-12 19:14:46.878 CST [31284] 日志:  checkpoint complete: wrote 531 buffers (3.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=53.369 s, sync=0.237 s, total=53.627 s; sync files=113, longest=0.011 s, average=0.003 s; distance=3532 kB, estimate=3532 kB; lsn=0/F6A2178, redo lsn=0/F6A20E8
+2026-07-12 19:18:53.879 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:19:41.668 CST [31284] 日志:  checkpoint complete: wrote 474 buffers (2.9%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=47.558 s, sync=0.218 s, total=47.789 s; sync files=103, longest=0.012 s, average=0.003 s; distance=3144 kB, estimate=3493 kB; lsn=0/F9D3D98, redo lsn=0/F9B4258
+2026-07-12 19:23:53.668 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:25:05.297 CST [31284] 日志:  checkpoint complete: wrote 711 buffers (4.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=71.355 s, sync=0.251 s, total=71.629 s; sync files=120, longest=0.012 s, average=0.003 s; distance=4837 kB, estimate=4837 kB; lsn=0/10171558, redo lsn=0/FE6DA18
+2026-07-12 19:28:54.800 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:29:49.546 CST [31284] 日志:  checkpoint complete: wrote 543 buffers (3.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=54.472 s, sync=0.247 s, total=54.746 s; sync files=118, longest=0.013 s, average=0.003 s; distance=4347 kB, estimate=4788 kB; lsn=0/102B2A38, redo lsn=0/102AC6B8
+2026-07-12 19:33:54.547 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:34:34.773 CST [31284] 日志:  checkpoint complete: wrote 398 buffers (2.4%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=40.007 s, sync=0.207 s, total=40.227 s; sync files=102, longest=0.004 s, average=0.003 s; distance=2474 kB, estimate=4557 kB; lsn=0/105FF328, redo lsn=0/10517248
+2026-07-12 19:38:54.774 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:39:06.849 CST [31284] 日志:  checkpoint complete: wrote 119 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=11.959 s, sync=0.094 s, total=12.076 s; sync files=46, longest=0.004 s, average=0.003 s; distance=928 kB, estimate=4194 kB; lsn=0/10602B40, redo lsn=0/105FF468
+2026-07-12 19:48:54.850 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:50:03.259 CST [31284] 日志:  checkpoint complete: wrote 680 buffers (4.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=68.150 s, sync=0.245 s, total=68.410 s; sync files=121, longest=0.004 s, average=0.003 s; distance=4500 kB, estimate=4500 kB; lsn=0/10C16330, redo lsn=0/10A64700
+2026-07-12 19:53:54.260 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:55:03.887 CST [31284] 日志:  checkpoint complete: wrote 690 buffers (4.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=69.361 s, sync=0.254 s, total=69.627 s; sync files=121, longest=0.012 s, average=0.003 s; distance=4763 kB, estimate=4763 kB; lsn=0/10F0B788, redo lsn=0/10F0B6F8
+2026-07-12 19:58:54.888 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:59:04.382 CST [31284] 日志:  checkpoint complete: wrote 94 buffers (0.6%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=9.452 s, sync=0.029 s, total=9.494 s; sync files=10, longest=0.012 s, average=0.003 s; distance=672 kB, estimate=4354 kB; lsn=0/10FB3A60, redo lsn=0/10FB39D0
+2026-07-12 20:08:54.384 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:09:47.998 CST [31284] 日志:  checkpoint complete: wrote 531 buffers (3.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=53.358 s, sync=0.238 s, total=53.615 s; sync files=113, longest=0.011 s, average=0.003 s; distance=3426 kB, estimate=4262 kB; lsn=0/1161A2F0, redo lsn=0/1130C410
+2026-07-12 20:13:54.999 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:14:13.848 CST [31284] 日志:  checkpoint complete: wrote 187 buffers (1.1%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=18.789 s, sync=0.039 s, total=18.849 s; sync files=18, longest=0.012 s, average=0.003 s; distance=3140 kB, estimate=4149 kB; lsn=0/1161D848, redo lsn=0/1161D7B8
+2026-07-12 20:18:54.847 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:20:14.945 CST [31284] 日志:  checkpoint complete: wrote 796 buffers (4.9%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=79.828 s, sync=0.247 s, total=80.098 s; sync files=119, longest=0.012 s, average=0.003 s; distance=4726 kB, estimate=4726 kB; lsn=0/11C88D28, redo lsn=0/11ABB260
+2026-07-12 20:23:54.946 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:24:39.848 CST [31284] 日志:  checkpoint complete: wrote 445 buffers (2.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=44.654 s, sync=0.229 s, total=44.903 s; sync files=109, longest=0.013 s, average=0.003 s; distance=2747 kB, estimate=4528 kB; lsn=0/11D70250, redo lsn=0/11D69EF8
+2026-07-12 20:28:54.849 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:28:55.482 CST [31284] 日志:  checkpoint complete: wrote 6 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.604 s, sync=0.017 s, total=0.633 s; sync files=3, longest=0.013 s, average=0.006 s; distance=40 kB, estimate=4079 kB; lsn=0/11D740F0, redo lsn=0/11D74098
+2026-07-12 20:43:54.482 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:45:01.813 CST [31284] 日志:  checkpoint complete: wrote 668 buffers (4.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=67.030 s, sync=0.276 s, total=67.332 s; sync files=131, longest=0.013 s, average=0.003 s; distance=4387 kB, estimate=4387 kB; lsn=0/121C0B48, redo lsn=0/121BCD68
+2026-07-12 20:58:54.816 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 20:58:56.570 CST [31284] 日志:  checkpoint complete: wrote 17 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=1.708 s, sync=0.025 s, total=1.755 s; sync files=8, longest=0.012 s, average=0.004 s; distance=100 kB, estimate=3958 kB; lsn=0/121D5E08, redo lsn=0/121D5D78
+2026-07-12 21:58:54.618 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 21:58:55.016 CST [31284] 日志:  checkpoint complete: wrote 3 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.325 s, sync=0.015 s, total=0.399 s; sync files=2, longest=0.013 s, average=0.008 s; distance=11 kB, estimate=3563 kB; lsn=0/121D89F0, redo lsn=0/121D8998
