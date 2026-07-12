@@ -1,0 +1,10 @@
+{
+  "pid": 0,
+  "port": 5432,
+  "data_dir": "C:/Users/Administrator/.pg0/instances/hindsight-embed-hermes/data",
+  "installation_dir": "C:/Users/Administrator/.pg0/installation",
+  "username": "hindsight",
+  "password": "hindsight",
+  "database": "hindsight",
+  "version": "18.1.0"
+}

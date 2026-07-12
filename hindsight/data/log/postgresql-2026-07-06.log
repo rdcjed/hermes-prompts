@@ -1,0 +1,887 @@
+2026-07-06 02:16:27.370 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:16:55.006 UTC [24760] 日志:  checkpoint complete: wrote 250 buffers (0.8%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=27.632 s, sync=0.001 s, total=27.636 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1443 kB, estimate=6864 kB; lsn=0/2119B58, redo lsn=0/209A500
+2026-07-06 02:21:27.020 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:21:47.027 UTC [24760] 日志:  checkpoint complete: wrote 182 buffers (0.6%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=20.005 s, sync=0.001 s, total=20.007 s; sync files=0, longest=0.000 s, average=0.000 s; distance=981 kB, estimate=6276 kB; lsn=0/2198738, redo lsn=0/218FC28
+2026-07-06 02:26:27.035 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:26:50.582 UTC [24760] 日志:  checkpoint complete: wrote 216 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=23.545 s, sync=0.001 s, total=23.547 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1391 kB, estimate=5787 kB; lsn=0/22F0F88, redo lsn=0/22EB848
+2026-07-06 02:29:28.802 UTC [30508] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [30624] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [28356] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [31424] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [21016] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [16576] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [65324] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [52048] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:29:28.803 UTC [48580] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:31:27.597 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:31:55.630 UTC [24760] 日志:  checkpoint complete: wrote 257 buffers (0.8%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=28.023 s, sync=0.001 s, total=28.034 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1615 kB, estimate=5370 kB; lsn=0/247F810, redo lsn=0/247F780
+2026-07-06 02:34:22.423 UTC [56596] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.423 UTC [22496] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [49312] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [59600] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [4232] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [64228] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [56876] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.424 UTC [20892] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.425 UTC [20912] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.425 UTC [40180] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:34:22.425 UTC [39508] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:36:27.634 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:36:53.288 UTC [24760] 日志:  checkpoint complete: wrote 234 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=25.653 s, sync=0.001 s, total=25.655 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1271 kB, estimate=4960 kB; lsn=0/25DBF38, redo lsn=0/25BD398
+2026-07-06 02:41:20.745 UTC [51880] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [47480] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [19732] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [12040] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [20820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [60292] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [38308] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [51052] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:20.745 UTC [52928] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:41:27.299 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:42:02.022 UTC [24760] 日志:  checkpoint complete: wrote 319 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=34.721 s, sync=0.001 s, total=34.723 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2625 kB, estimate=4727 kB; lsn=0/284D858, redo lsn=0/284D7C8
+2026-07-06 02:44:38.666 UTC [14116] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:44:38.666 UTC [64056] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:44:38.666 UTC [54164] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:44:38.666 UTC [27712] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:44:38.666 UTC [22300] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:46:27.034 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 02:46:28.016 UTC [24760] 日志:  checkpoint complete: wrote 9 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.982 s, sync=0.001 s, total=0.983 s; sync files=0, longest=0.000 s, average=0.000 s; distance=57 kB, estimate=4260 kB; lsn=0/285BFD0, redo lsn=0/285BF78
+2026-07-06 02:46:37.795 UTC [50236] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:46:37.795 UTC [21460] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:46:37.796 UTC [2692] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:46:37.796 UTC [56668] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 02:46:37.796 UTC [64828] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 03:58:33.910 UTC [11352] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 03:58:33.910 UTC [41276] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 03:58:33.910 UTC [712] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 03:58:33.910 UTC [64536] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 03:58:33.910 UTC [41260] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:01:27.121 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:01:57.409 UTC [24760] 日志:  checkpoint complete: wrote 279 buffers (0.9%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=30.286 s, sync=0.001 s, total=30.289 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1681 kB, estimate=4002 kB; lsn=0/2A007E0, redo lsn=0/2A00750
+2026-07-06 04:12:44.174 UTC [65024] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:12:44.174 UTC [36936] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:12:44.174 UTC [14444] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:12:44.174 UTC [9480] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:12:44.174 UTC [28756] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:16:27.428 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:16:52.855 UTC [24760] 日志:  checkpoint complete: wrote 234 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=25.426 s, sync=0.001 s, total=25.428 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1411 kB, estimate=3743 kB; lsn=0/2B61680, redo lsn=0/2B615F0
+2026-07-06 04:22:43.050 UTC [35960] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:22:43.050 UTC [25320] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:22:43.050 UTC [19820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:22:43.050 UTC [28168] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:22:43.050 UTC [59304] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:26:27.868 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:26:52.275 UTC [24760] 日志:  checkpoint complete: wrote 223 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=24.406 s, sync=0.001 s, total=24.408 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1169 kB, estimate=3485 kB; lsn=0/2C85CF8, redo lsn=0/2C85C68
+2026-07-06 04:31:27.279 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:31:57.092 UTC [24760] 日志:  checkpoint complete: wrote 271 buffers (0.8%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=29.811 s, sync=0.001 s, total=29.813 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1707 kB, estimate=3308 kB; lsn=0/2F3C050, redo lsn=0/2E30B60
+2026-07-06 04:36:27.097 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:36:52.052 UTC [24760] 日志:  checkpoint complete: wrote 226 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=24.954 s, sync=0.001 s, total=24.956 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1430 kB, estimate=3120 kB; lsn=0/2F98B20, redo lsn=0/2F966D8
+2026-07-06 04:37:02.584 UTC [22504] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:37:02.584 UTC [21728] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 04:41:27.056 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 04:41:27.498 UTC [24760] 日志:  checkpoint complete: wrote 4 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.441 s, sync=0.001 s, total=0.443 s; sync files=0, longest=0.000 s, average=0.000 s; distance=17 kB, estimate=2810 kB; lsn=0/2F9ADC8, redo lsn=0/2F9AD70
+2026-07-06 05:06:20.667 UTC [10528] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:20.667 UTC [44540] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:20.667 UTC [13700] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:20.667 UTC [47776] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:20.667 UTC [40764] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:27.531 UTC [24760] 日志:  checkpoint starting: time
+2026-07-06 05:06:32.741 UTC [24760] 日志:  checkpoint complete: wrote 48 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.208 s, sync=0.001 s, total=5.210 s; sync files=0, longest=0.000 s, average=0.000 s; distance=206 kB, estimate=2549 kB; lsn=0/2FCE8C8, redo lsn=0/2FCE870
+2026-07-06 05:06:48.097 UTC [50780] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:48.097 UTC [10416] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:48.098 UTC [31644] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:48.098 UTC [62844] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:06:48.098 UTC [44364] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:26.484 UTC [25432] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:26.484 UTC [26200] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:26.484 UTC [31404] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:26.484 UTC [21984] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:26.484 UTC [20972] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:09:51.205 UTC [24760] 日志:  正在关闭
+2026-07-06 05:09:51.205 UTC [28492] 日志:  接收到快速 (fast) 停止请求
+2026-07-06 05:09:51.205 UTC [24760] 日志:  checkpoint starting: shutdown immediate
+2026-07-06 05:09:51.205 UTC [28492] 日志:  中断任何激活事务
+2026-07-06 05:09:51.212 UTC [24760] 日志:  checkpoint complete: wrote 348 buffers (1.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=0.006 s, sync=0.001 s, total=0.007 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2568 kB, estimate=2568 kB; lsn=0/3250958, redo lsn=0/3250958
+2026-07-06 05:09:51.212 UTC [28492] 日志:  WAL was shut down unexpectedly
+2026-07-06 05:09:51.515 UTC [28492] 日志:  数据库系统异常关闭
+2026-07-06 05:09:51.520 UTC [28492] 日志:  数据库系统已关闭
+2026-07-06 05:15:00.566 UTC [14212] 日志:  正在启动 PostgreSQL 18.1 on x86_64-windows, compiled by msvc-19.44.35219, 64-bit
+2026-07-06 05:15:00.568 UTC [14212] 日志:  正在监听IPv6地址"::1"，端口 5433
+2026-07-06 05:15:00.568 UTC [14212] 日志:  正在监听IPv4地址"127.0.0.1"，端口 5433
+2026-07-06 05:15:00.610 UTC [3136] 日志:  数据库上次关闭时间为 2026-07-06 05:09:51 UTC
+2026-07-06 05:15:00.617 UTC [14212] 日志:  数据库系统准备接受连接
+2026-07-06 05:17:10.616 UTC [10752] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:17:10.616 UTC [7244] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:17:10.616 UTC [3468] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:17:10.617 UTC [2980] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:17:10.617 UTC [14876] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.136 UTC [9324] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.137 UTC [9332] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.137 UTC [8312] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.137 UTC [9316] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.137 UTC [16296] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.137 UTC [3772] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:20:00.615 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:20:27.150 UTC [4772] 日志:  checkpoint complete: wrote 243 buffers (0.7%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=26.532 s, sync=0.001 s, total=26.536 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1478 kB, estimate=1478 kB; lsn=0/33CC9E0, redo lsn=0/33C2200
+2026-07-06 05:21:50.229 UTC [8532] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:21:50.229 UTC [9032] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:21:50.229 UTC [10184] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:21:50.229 UTC [6120] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:21:50.229 UTC [11920] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:25:00.160 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:25:06.769 UTC [4772] 日志:  checkpoint complete: wrote 60 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=6.598 s, sync=0.001 s, total=6.610 s; sync files=0, longest=0.000 s, average=0.000 s; distance=343 kB, estimate=1364 kB; lsn=0/342ACB8, redo lsn=0/3417E98
+2026-07-06 05:27:43.630 UTC [12432] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:27:43.630 UTC [7540] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:29:11.288 UTC [7684] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:29:11.288 UTC [7464] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:29:11.288 UTC [3980] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:29:11.288 UTC [796] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:29:11.288 UTC [8068] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:30:00.776 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:30:08.280 UTC [4772] 日志:  checkpoint complete: wrote 69 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=7.502 s, sync=0.001 s, total=7.504 s; sync files=0, longest=0.000 s, average=0.000 s; distance=472 kB, estimate=1275 kB; lsn=0/348E140, redo lsn=0/348E0E8
+2026-07-06 05:33:47.970 UTC [5704] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:33:47.970 UTC [11880] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:33:47.970 UTC [11724] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:33:47.970 UTC [4192] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:33:47.970 UTC [4880] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:35:00.290 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:35:03.875 UTC [4772] 日志:  checkpoint complete: wrote 33 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=3.584 s, sync=0.001 s, total=3.586 s; sync files=0, longest=0.000 s, average=0.000 s; distance=158 kB, estimate=1163 kB; lsn=0/34B5AF8, redo lsn=0/34B5AA0
+2026-07-06 05:38:13.506 UTC [7588] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:38:13.506 UTC [8320] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:38:13.507 UTC [7700] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:38:13.507 UTC [9888] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:38:13.507 UTC [6924] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:40:00.878 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:40:08.042 UTC [4772] 日志:  checkpoint complete: wrote 66 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=7.163 s, sync=0.001 s, total=7.165 s; sync files=0, longest=0.000 s, average=0.000 s; distance=449 kB, estimate=1092 kB; lsn=0/353A4B0, redo lsn=0/3525F10
+2026-07-06 05:40:31.108 UTC [7968] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:40:31.108 UTC [12008] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:40:31.108 UTC [13964] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:40:31.108 UTC [7700] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:40:31.108 UTC [6352] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:42:32.585 UTC [8992] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:42:32.585 UTC [15792] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:42:32.585 UTC [2600] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:42:32.585 UTC [9332] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:42:32.586 UTC [2960] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:43:31.163 UTC [3604] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:43:31.163 UTC [15320] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:43:31.163 UTC [2212] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:43:31.164 UTC [4280] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:43:31.164 UTC [13676] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:00.044 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:45:01.585 UTC [13136] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:01.585 UTC [14708] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:01.585 UTC [2676] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:01.585 UTC [14592] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:01.585 UTC [8832] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:45:07.560 UTC [4772] 日志:  checkpoint complete: wrote 69 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=7.515 s, sync=0.001 s, total=7.517 s; sync files=0, longest=0.000 s, average=0.000 s; distance=445 kB, estimate=1027 kB; lsn=0/35DD8F0, redo lsn=0/3595708
+2026-07-06 05:50:00.563 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:50:11.326 UTC [4772] 日志:  checkpoint complete: wrote 98 buffers (0.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=10.762 s, sync=0.001 s, total=10.764 s; sync files=0, longest=0.000 s, average=0.000 s; distance=680 kB, estimate=992 kB; lsn=0/366FCF0, redo lsn=0/363FA58
+2026-07-06 05:51:08.093 UTC [11836] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:51:08.093 UTC [3052] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:51:08.093 UTC [8952] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:51:08.094 UTC [8868] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:51:08.094 UTC [2032] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:53:30.913 UTC [7480] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:53:30.914 UTC [15200] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:53:30.914 UTC [1196] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:53:30.914 UTC [2300] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:53:30.914 UTC [10340] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:55:00.329 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 05:55:05.802 UTC [4772] 日志:  checkpoint complete: wrote 50 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.472 s, sync=0.001 s, total=5.474 s; sync files=0, longest=0.000 s, average=0.000 s; distance=358 kB, estimate=929 kB; lsn=0/36994D0, redo lsn=0/3699478
+2026-07-06 05:56:18.077 UTC [1196] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:56:18.077 UTC [9392] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:56:18.078 UTC [5404] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:56:18.078 UTC [10100] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:56:18.078 UTC [12032] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:59:05.244 UTC [8116] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:59:05.245 UTC [15488] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:59:05.245 UTC [5624] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:59:05.245 UTC [5300] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 05:59:05.246 UTC [2640] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:00:00.806 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 06:00:06.804 UTC [4772] 日志:  checkpoint complete: wrote 55 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.998 s, sync=0.001 s, total=5.999 s; sync files=0, longest=0.000 s, average=0.000 s; distance=345 kB, estimate=871 kB; lsn=0/36EFB88, redo lsn=0/36EFAF8
+2026-07-06 06:02:14.411 UTC [10660] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:02:14.411 UTC [5316] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:02:14.412 UTC [12680] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:02:14.412 UTC [2300] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:02:14.412 UTC [14012] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:05:00.821 UTC [4772] 日志:  checkpoint starting: time
+2026-07-06 06:05:03.755 UTC [4772] 日志:  checkpoint complete: wrote 27 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=2.932 s, sync=0.001 s, total=2.935 s; sync files=0, longest=0.000 s, average=0.000 s; distance=151 kB, estimate=799 kB; lsn=0/3715A88, redo lsn=0/3715A30
+2026-07-06 06:05:57.945 UTC [6352] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:05:57.945 UTC [7152] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:05:57.945 UTC [14824] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:05:57.945 UTC [11660] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:05:57.945 UTC [15756] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:08:23.845 UTC [7500] 日志:  正在启动 PostgreSQL 18.1 on x86_64-windows, compiled by msvc-19.44.35219, 64-bit
+2026-07-06 06:08:23.847 UTC [7500] 日志:  正在监听IPv6地址"::1"，端口 5433
+2026-07-06 06:08:23.847 UTC [7500] 日志:  正在监听IPv4地址"127.0.0.1"，端口 5433
+2026-07-06 06:08:23.889 UTC [4052] 日志:  数据库系统中断；上一次的启动时间是在2026-07-06 06:05:03 UTC
+2026-07-06 06:08:23.891 UTC [4052] 日志:  数据库系统没有正确的关闭; 处于自动恢复状态中
+2026-07-06 06:08:23.894 UTC [4052] 日志:  redo 在 0/3715A30 开始
+2026-07-06 06:08:23.900 UTC [4052] 日志:  invalid record length at 0/372B5E8: expected at least 24, got 0
+2026-07-06 06:08:23.900 UTC [4052] 日志:  redo done at 0/372B5B0 system usage: CPU:用户：0.00 s，系统：0.00 s，已用时间：0.00 s
+2026-07-06 06:08:23.903 UTC [3144] 日志:  checkpoint starting: end-of-recovery immediate wait
+2026-07-06 06:08:23.906 UTC [3144] 日志:  checkpoint complete: wrote 19 buffers (0.1%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.004 s; sync files=0, longest=0.000 s, average=0.000 s; distance=86 kB, estimate=86 kB; lsn=0/372B5E8, redo lsn=0/372B5E8
+2026-07-06 06:08:23.910 UTC [7500] 日志:  数据库系统准备接受连接
+2026-07-06 06:08:42.293 UTC [15576] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:08:42.293 UTC [10440] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:08:42.293 UTC [15560] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:08:42.293 UTC [16144] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:08:42.293 UTC [11192] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:09:18.421 UTC [10092] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:09:18.422 UTC [16248] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:09:18.422 UTC [10156] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:09:18.422 UTC [15984] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:09:18.422 UTC [16216] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:10:54.212 UTC [4796] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:10:54.213 UTC [13524] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:10:54.213 UTC [3000] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:10:54.213 UTC [1392] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:10:54.213 UTC [2412] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:11:31.657 UTC [1392] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:11:31.657 UTC [3328] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:11:31.657 UTC [15636] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:11:31.657 UTC [640] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:11:31.657 UTC [10164] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:13:23.920 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 06:13:26.752 UTC [3144] 日志:  checkpoint complete: wrote 26 buffers (0.1%), wrote 2 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=2.831 s, sync=0.001 s, total=2.832 s; sync files=0, longest=0.000 s, average=0.000 s; distance=137 kB, estimate=137 kB; lsn=0/374DD88, redo lsn=0/374DCF8
+2026-07-06 06:18:23.766 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 06:18:23.984 UTC [3144] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.217 s, sync=0.001 s, total=0.218 s; sync files=0, longest=0.000 s, average=0.000 s; distance=10 kB, estimate=125 kB; lsn=0/3750790, redo lsn=0/3750738
+2026-07-06 06:23:23.995 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 06:23:28.272 UTC [3144] 日志:  checkpoint complete: wrote 39 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.267 s, sync=0.001 s, total=4.278 s; sync files=0, longest=0.000 s, average=0.000 s; distance=242 kB, estimate=242 kB; lsn=0/378D280, redo lsn=0/378D228
+2026-07-06 06:26:32.980 UTC [1348] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:26:32.980 UTC [1384] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:28:23.282 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 06:28:26.126 UTC [3144] 日志:  checkpoint complete: wrote 26 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=2.844 s, sync=0.001 s, total=2.845 s; sync files=0, longest=0.000 s, average=0.000 s; distance=146 kB, estimate=233 kB; lsn=0/37B1B88, redo lsn=0/37B1AF8
+2026-07-06 06:38:23.133 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 06:38:23.354 UTC [3144] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.221 s, sync=0.001 s, total=0.222 s; sync files=0, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=210 kB; lsn=0/37B4B98, redo lsn=0/37B4B40
+2026-07-06 06:38:50.054 UTC [10448] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:38:50.054 UTC [7108] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:38:50.054 UTC [3912] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:38:50.054 UTC [328] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:38:50.054 UTC [1676] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:48:41.914 UTC [10548] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:48:41.914 UTC [7420] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:48:41.914 UTC [4976] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:48:41.914 UTC [16008] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:48:41.914 UTC [13756] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:55:07.777 UTC [14672] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:55:07.777 UTC [12048] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:55:07.777 UTC [14284] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:55:07.777 UTC [16316] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:55:07.777 UTC [14624] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:57:32.485 UTC [9624] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:57:32.485 UTC [10628] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:57:32.486 UTC [2232] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:57:32.486 UTC [1888] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 06:57:32.486 UTC [476] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:03:27.560 UTC [15864] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:03:27.560 UTC [9232] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:03:27.560 UTC [14564] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:03:27.560 UTC [14844] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:03:27.560 UTC [2064] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:08:13.609 UTC [336] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:08:13.609 UTC [3584] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:08:13.610 UTC [6180] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:08:13.610 UTC [11696] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:08:13.610 UTC [8160] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:12:04.916 UTC [3164] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:12:04.916 UTC [9884] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:12:04.916 UTC [9016] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:12:04.916 UTC [16244] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:12:04.916 UTC [808] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:16:21.138 UTC [3748] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:16:21.138 UTC [15308] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:16:21.138 UTC [11196] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:16:21.138 UTC [11244] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:16:21.138 UTC [2904] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:17:55.597 UTC [9244] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:17:55.597 UTC [2584] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:17:55.597 UTC [16224] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:17:55.597 UTC [15644] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:17:55.597 UTC [13524] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:28:23.435 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 07:28:43.922 UTC [3144] 日志:  checkpoint complete: wrote 186 buffers (0.6%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=20.487 s, sync=0.001 s, total=20.488 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1065 kB, estimate=1065 kB; lsn=0/38BF0B0, redo lsn=0/38BF020
+2026-07-06 07:28:53.367 UTC [7256] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:28:53.367 UTC [3688] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:33:23.937 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 07:33:24.156 UTC [3144] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.218 s, sync=0.001 s, total=0.220 s; sync files=0, longest=0.000 s, average=0.000 s; distance=10 kB, estimate=959 kB; lsn=0/38C1C48, redo lsn=0/38C1BF0
+2026-07-06 07:41:04.483 UTC [15224] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:04.483 UTC [3728] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:04.483 UTC [16308] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:04.483 UTC [5836] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:04.483 UTC [9812] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:31.154 UTC [11440] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:31.154 UTC [15952] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:31.154 UTC [9820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:31.154 UTC [1652] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:41:31.154 UTC [7724] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:43:23.181 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 07:43:47.707 UTC [3144] 日志:  checkpoint complete: wrote 224 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=24.525 s, sync=0.001 s, total=24.526 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1324 kB, estimate=1324 kB; lsn=0/3A2EA18, redo lsn=0/3A0CF20
+2026-07-06 07:44:13.033 UTC [15584] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:44:13.033 UTC [1932] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:44:13.033 UTC [16304] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:44:13.033 UTC [5156] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:44:13.033 UTC [15480] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 07:49:57.392 UTC [7512] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:03:23.727 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:03:26.920 UTC [3144] 日志:  checkpoint complete: wrote 29 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=3.192 s, sync=0.001 s, total=3.194 s; sync files=0, longest=0.000 s, average=0.000 s; distance=167 kB, estimate=1209 kB; lsn=0/3B16BF8, redo lsn=0/3A36C98
+2026-07-06 08:08:21.216 UTC [3192] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:08:21.216 UTC [2524] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:08:21.216 UTC [15644] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:08:23.923 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:08:43.615 UTC [3144] 日志:  checkpoint complete: wrote 178 buffers (0.5%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=19.691 s, sync=0.001 s, total=19.693 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1034 kB, estimate=1191 kB; lsn=0/3B39908, redo lsn=0/3B39878
+2026-07-06 08:17:22.728 UTC [14220] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:17:22.728 UTC [9648] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:17:22.728 UTC [5808] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:17:22.728 UTC [9184] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:17:22.729 UTC [10096] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:18:23.639 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:18:28.753 UTC [3144] 日志:  checkpoint complete: wrote 47 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.113 s, sync=0.001 s, total=5.115 s; sync files=0, longest=0.000 s, average=0.000 s; distance=222 kB, estimate=1094 kB; lsn=0/3B982D0, redo lsn=0/3B71178
+2026-07-06 08:23:07.104 UTC [4668] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:23.784 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:33:42.742 UTC [2396] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:42.742 UTC [16692] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:42.742 UTC [3716] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:42.743 UTC [13344] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:42.743 UTC [16480] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:33:50.453 UTC [3144] 日志:  checkpoint complete: wrote 244 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=26.659 s, sync=0.001 s, total=26.669 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1447 kB, estimate=1447 kB; lsn=0/3CDD5B8, redo lsn=0/3CDAEF0
+2026-07-06 08:38:23.464 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:38:28.499 UTC [3144] 日志:  checkpoint complete: wrote 46 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.034 s, sync=0.001 s, total=5.035 s; sync files=0, longest=0.000 s, average=0.000 s; distance=261 kB, estimate=1328 kB; lsn=0/3D1C410, redo lsn=0/3D1C380
+2026-07-06 08:41:57.621 UTC [316] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:41:57.622 UTC [17544] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:41:57.622 UTC [3004] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:41:57.622 UTC [15204] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:41:57.622 UTC [17796] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:43:23.502 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:43:49.121 UTC [3144] 日志:  checkpoint complete: wrote 235 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=25.618 s, sync=0.001 s, total=25.619 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1408 kB, estimate=1408 kB; lsn=0/3F58A58, redo lsn=0/3E7C6D8
+2026-07-06 08:47:41.600 UTC [14828] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:47:41.600 UTC [13708] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:47:41.600 UTC [17416] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:47:41.600 UTC [15204] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:47:41.600 UTC [3132] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:47:41.601 UTC [17860] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 08:48:23.130 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:48:34.697 UTC [3144] 日志:  checkpoint complete: wrote 106 buffers (0.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=11.565 s, sync=0.001 s, total=11.567 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1086 kB, estimate=1376 kB; lsn=0/3F8BFF8, redo lsn=0/3F8BF68
+2026-07-06 08:58:23.721 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 08:59:01.423 UTC [3144] 日志:  checkpoint complete: wrote 342 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=37.700 s, sync=0.001 s, total=37.702 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2228 kB, estimate=2228 kB; lsn=0/41B9210, redo lsn=0/41B9180
+2026-07-06 09:00:00.963 UTC [15608] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [8736] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [17416] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [7628] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [15352] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [16176] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [16444] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [14016] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [16628] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:00:00.964 UTC [4444] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 09:03:23.430 UTC [3144] 日志:  checkpoint starting: time
+2026-07-06 09:03:23.651 UTC [3144] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.219 s, sync=0.001 s, total=0.221 s; sync files=0, longest=0.000 s, average=0.000 s; distance=11 kB, estimate=2006 kB; lsn=0/41BBED8, redo lsn=0/41BBE48
+2026-07-06 11:35:39.907 UTC [11888] 日志:  正在启动 PostgreSQL 18.1 on x86_64-windows, compiled by msvc-19.44.35219, 64-bit
+2026-07-06 11:35:39.909 UTC [11888] 日志:  正在监听IPv6地址"::1"，端口 5432
+2026-07-06 11:35:39.909 UTC [11888] 日志:  正在监听IPv4地址"127.0.0.1"，端口 5432
+2026-07-06 11:35:39.945 UTC [16544] 日志:  数据库系统中断；上一次的启动时间是在2026-07-06 09:03:23 UTC
+2026-07-06 11:35:39.946 UTC [16544] 日志:  数据库系统没有正确的关闭; 处于自动恢复状态中
+2026-07-06 11:35:39.950 UTC [16544] 日志:  redo 在 0/41BBE48 开始
+2026-07-06 11:35:39.950 UTC [16544] 日志:  invalid record length at 0/41BBF88: expected at least 24, got 0
+2026-07-06 11:35:39.950 UTC [16544] 日志:  redo done at 0/41BBF50 system usage: CPU:用户：0.00 s，系统：0.00 s，已用时间：0.00 s
+2026-07-06 11:35:39.954 UTC [16624] 日志:  checkpoint starting: end-of-recovery immediate wait
+2026-07-06 11:35:39.956 UTC [16624] 日志:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.004 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/41BBF88, redo lsn=0/41BBF88
+2026-07-06 11:35:39.959 UTC [11888] 日志:  数据库系统准备接受连接
+2026-07-06 11:35:59.643 UTC [13428] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:35:59.643 UTC [12144] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:35:59.643 UTC [6544] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:35:59.643 UTC [11820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:35:59.643 UTC [10864] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:37:36.108 UTC [17188] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:37:36.108 UTC [16880] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:37:36.108 UTC [16916] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:37:36.108 UTC [16788] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:37:36.108 UTC [16884] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:38:07.102 UTC [17004] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:38:07.103 UTC [14760] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:38:07.103 UTC [17008] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:38:07.103 UTC [5696] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:38:07.103 UTC [13660] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.132 UTC [13468] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [2652] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [17068] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [7836] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [9056] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [13448] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:39:21.133 UTC [13820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:40:39.967 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 11:41:10.031 UTC [16624] 日志:  checkpoint complete: wrote 271 buffers (0.8%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=30.062 s, sync=0.001 s, total=30.065 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1719 kB, estimate=1719 kB; lsn=0/438DF10, redo lsn=0/4369C50
+2026-07-06 11:45:39.047 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 11:46:10.626 UTC [16624] 日志:  checkpoint complete: wrote 285 buffers (0.9%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=31.579 s, sync=0.001 s, total=31.580 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1792 kB, estimate=1792 kB; lsn=0/467A0A8, redo lsn=0/452A028
+2026-07-06 11:46:30.604 UTC [16672] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:46:30.604 UTC [13208] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:46:30.604 UTC [2596] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:46:30.604 UTC [10556] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:46:30.604 UTC [6256] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:50:39.637 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 11:51:24.160 UTC [16624] 日志:  checkpoint complete: wrote 405 buffers (1.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=44.522 s, sync=0.001 s, total=44.523 s; sync files=0, longest=0.000 s, average=0.000 s; distance=3150 kB, estimate=3150 kB; lsn=0/483DAC8, redo lsn=0/483DA38
+2026-07-06 11:52:37.836 UTC [13784] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:52:37.836 UTC [13964] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:52:37.836 UTC [16968] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:52:37.836 UTC [3444] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 11:55:39.175 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 11:55:39.830 UTC [16624] 日志:  checkpoint complete: wrote 6 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.655 s, sync=0.001 s, total=0.656 s; sync files=0, longest=0.000 s, average=0.000 s; distance=34 kB, estimate=2838 kB; lsn=0/48462D0, redo lsn=0/4846240
+2026-07-06 12:00:30.830 UTC [17268] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:00:30.830 UTC [14600] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:00:30.830 UTC [7084] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:00:30.830 UTC [16560] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:00:30.830 UTC [1972] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:00:39.832 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:00:44.440 UTC [16624] 日志:  checkpoint complete: wrote 42 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.605 s, sync=0.001 s, total=4.608 s; sync files=0, longest=0.000 s, average=0.000 s; distance=227 kB, estimate=2577 kB; lsn=0/487F020, redo lsn=0/487EFC8
+2026-07-06 12:03:23.687 UTC [2984] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.687 UTC [11260] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [10728] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [6044] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [2516] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [528] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [14080] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [6120] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [13864] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:03:23.688 UTC [10000] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:05:39.442 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:05:58.687 UTC [3340] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:05:58.687 UTC [10292] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:05:58.687 UTC [8820] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:05:58.687 UTC [10272] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:05:58.687 UTC [7708] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:06:14.900 UTC [16624] 日志:  checkpoint complete: wrote 321 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=35.456 s, sync=0.001 s, total=35.458 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2084 kB, estimate=2528 kB; lsn=0/4A88378, redo lsn=0/4A882E8
+2026-07-06 12:15:03.037 UTC [8108] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:13.756 UTC [14532] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:13.756 UTC [11092] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:13.756 UTC [11316] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:13.756 UTC [17040] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:13.756 UTC [6508] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:38.631 UTC [16816] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:38.631 UTC [14136] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:38.631 UTC [16400] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:38.632 UTC [768] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:22:38.632 UTC [16936] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:25:39.931 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:25:50.411 UTC [16624] 日志:  checkpoint complete: wrote 95 buffers (0.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=10.478 s, sync=0.001 s, total=10.480 s; sync files=0, longest=0.000 s, average=0.000 s; distance=556 kB, estimate=2331 kB; lsn=0/4B13520, redo lsn=0/4B13490
+2026-07-06 12:30:52.662 UTC [14556] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:39:44.318 UTC [17988] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:39:44.318 UTC [23264] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:39:44.318 UTC [24380] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:39:44.318 UTC [25164] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:39:44.319 UTC [20984] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:20.242 UTC [18892] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:20.242 UTC [9040] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:20.242 UTC [24832] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:20.242 UTC [24868] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:20.242 UTC [13296] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:40:39.441 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:40:43.789 UTC [16624] 日志:  checkpoint complete: wrote 40 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.347 s, sync=0.001 s, total=4.349 s; sync files=0, longest=0.000 s, average=0.000 s; distance=262 kB, estimate=2124 kB; lsn=0/4BAF9A8, redo lsn=0/4B54D58
+2026-07-06 12:43:35.089 UTC [23860] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:43:35.090 UTC [4012] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:43:35.090 UTC [25100] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:43:35.090 UTC [17940] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:43:35.090 UTC [10600] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:45:39.793 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:45:53.471 UTC [16624] 日志:  checkpoint complete: wrote 126 buffers (0.4%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=13.676 s, sync=0.001 s, total=13.678 s; sync files=0, longest=0.000 s, average=0.000 s; distance=874 kB, estimate=1999 kB; lsn=0/4C2F880, redo lsn=0/4C2F828
+2026-07-06 12:49:43.741 UTC [16448] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:49:43.741 UTC [7456] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:49:43.741 UTC [18528] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:49:43.741 UTC [24144] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:49:43.741 UTC [20072] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:49:43.741 UTC [17640] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 12:50:39.471 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:51:14.883 UTC [16624] 日志:  checkpoint complete: wrote 323 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=35.411 s, sync=0.001 s, total=35.413 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2144 kB, estimate=2144 kB; lsn=0/4E556D0, redo lsn=0/4E478E8
+2026-07-06 12:55:39.885 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 12:56:18.948 UTC [16624] 日志:  checkpoint complete: wrote 360 buffers (1.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=39.061 s, sync=0.001 s, total=39.063 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2281 kB, estimate=2281 kB; lsn=0/50A2DE0, redo lsn=0/5081ED0
+2026-07-06 13:00:39.964 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 13:00:43.789 UTC [16624] 日志:  checkpoint complete: wrote 35 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=3.824 s, sync=0.001 s, total=3.826 s; sync files=0, longest=0.000 s, average=0.000 s; distance=242 kB, estimate=2077 kB; lsn=0/510FF80, redo lsn=0/50BE950
+2026-07-06 13:05:57.403 UTC [25124] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 13:10:39.808 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 13:10:44.743 UTC [16624] 日志:  checkpoint complete: wrote 45 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.933 s, sync=0.001 s, total=4.935 s; sync files=0, longest=0.000 s, average=0.000 s; distance=338 kB, estimate=1903 kB; lsn=0/5113268, redo lsn=0/51131D8
+2026-07-06 16:20:40.052 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 16:21:04.333 UTC [16624] 日志:  checkpoint complete: wrote 218 buffers (0.7%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=24.280 s, sync=0.001 s, total=24.282 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1311 kB, estimate=1844 kB; lsn=0/525AF60, redo lsn=0/525AED0
+2026-07-06 16:23:29.642 UTC [16056] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 16:23:29.642 UTC [23100] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 16:25:40.349 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 16:25:40.572 UTC [16624] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.222 s, sync=0.001 s, total=0.224 s; sync files=0, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=1661 kB; lsn=0/525E228, redo lsn=0/525E1D0
+2026-07-06 23:35:44.822 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 23:36:13.281 UTC [16624] 日志:  checkpoint complete: wrote 255 buffers (0.8%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=28.457 s, sync=0.001 s, total=28.459 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1552 kB, estimate=1650 kB; lsn=0/53E23E0, redo lsn=0/53E2350
+2026-07-06 23:39:16.328 UTC [23008] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 23:39:16.328 UTC [6552] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 23:39:16.328 UTC [3128] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 23:39:16.328 UTC [18324] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-06 23:40:44.286 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 23:40:44.621 UTC [16624] 日志:  checkpoint complete: wrote 3 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.335 s, sync=0.001 s, total=0.336 s; sync files=0, longest=0.000 s, average=0.000 s; distance=19 kB, estimate=1487 kB; lsn=0/53E6FE8, redo lsn=0/53E6F90
+2026-07-06 23:45:44.630 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 23:46:20.537 UTC [16624] 日志:  checkpoint complete: wrote 322 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=35.906 s, sync=0.001 s, total=35.908 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2022 kB, estimate=2022 kB; lsn=0/55E0BE0, redo lsn=0/55E0B50
+2026-07-06 23:50:44.554 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 23:50:52.048 UTC [16624] 日志:  checkpoint complete: wrote 68 buffers (0.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=7.493 s, sync=0.001 s, total=7.495 s; sync files=0, longest=0.000 s, average=0.000 s; distance=378 kB, estimate=1858 kB; lsn=0/57B2E68, redo lsn=0/563F528
+2026-07-06 23:55:44.064 UTC [16624] 日志:  checkpoint starting: time
+2026-07-06 23:56:21.577 UTC [16624] 日志:  checkpoint complete: wrote 343 buffers (1.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=37.512 s, sync=0.001 s, total=37.514 s; sync files=0, longest=0.000 s, average=0.000 s; distance=2169 kB, estimate=2169 kB; lsn=0/5AA8830, redo lsn=0/585DAB0

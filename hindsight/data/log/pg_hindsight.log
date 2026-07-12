@@ -1,0 +1,23 @@
+2026-07-12 18:38:22.225 CST [17352] 日志:  正在启动 PostgreSQL 18.1 on x86_64-windows, compiled by msvc-19.44.35219, 64-bit
+2026-07-12 18:38:22.228 CST [17352] 日志:  正在监听IPv6地址"::1"，端口 5432
+2026-07-12 18:38:22.228 CST [17352] 日志:  正在监听IPv4地址"127.0.0.1"，端口 5432
+2026-07-12 18:38:22.274 CST [32608] 日志:  数据库系统中断；上一次的启动时间是在2026-07-12 15:21:50 CST
+2026-07-12 18:38:28.522 CST [32608] 日志:  无法打开文件 "./log/pg_hindsight.log": 共享冲突
+2026-07-12 18:38:28.522 CST [32608] 详细信息:  继续重新尝试30秒
+2026-07-12 18:38:28.522 CST [32608] 提示:  您可能有反病毒，备份或类似的软件与数据库系统冲突
+2026-07-12 18:38:53.382 CST [32608] 日志:  syncing data directory (fsync), elapsed time: 31.10 s, current path: ./log/postgresql-2026-07-05.log
+2026-07-12 18:38:53.408 CST [32608] 日志:  数据库系统没有正确的关闭; 处于自动恢复状态中
+2026-07-12 18:38:53.412 CST [32608] 日志:  redo 在 0/EE0C1B8 开始
+2026-07-12 18:38:53.412 CST [32608] 日志:  invalid record length at 0/EE0FB48: expected at least 24, got 0
+2026-07-12 18:38:53.412 CST [32608] 日志:  redo done at 0/EE0FB10 system usage: CPU:用户：0.00 s，系统：0.00 s，已用时间：0.00 s
+2026-07-12 18:38:53.417 CST [31284] 日志:  checkpoint starting: end-of-recovery immediate wait
+2026-07-12 18:38:53.441 CST [31284] 日志:  checkpoint complete: wrote 2 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.009 s, total=0.028 s; sync files=4, longest=0.003 s, average=0.003 s; distance=14 kB, estimate=14 kB; lsn=0/EE0FB48, redo lsn=0/EE0FB48
+2026-07-12 18:38:53.447 CST [17352] 日志:  数据库系统准备接受连接
+2026-07-12 18:58:53.443 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 18:58:58.124 CST [31284] 日志:  checkpoint complete: wrote 46 buffers (0.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.623 s, sync=0.046 s, total=4.682 s; sync files=23, longest=0.011 s, average=0.002 s; distance=263 kB, estimate=263 kB; lsn=0/EE51B30, redo lsn=0/EE51AD8
+2026-07-12 19:03:53.124 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:04:41.559 CST [31284] 日志:  checkpoint complete: wrote 479 buffers (2.9%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 1 recycled; write=48.181 s, sync=0.227 s, total=48.435 s; sync files=112, longest=0.004 s, average=0.003 s; distance=2996 kB, estimate=2996 kB; lsn=0/F142370, redo lsn=0/F13EEC8
+2026-07-12 19:08:53.560 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:09:27.250 CST [31284] 日志:  checkpoint complete: wrote 333 buffers (2.0%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=33.465 s, sync=0.213 s, total=33.691 s; sync files=105, longest=0.004 s, average=0.003 s; distance=1983 kB, estimate=2895 kB; lsn=0/F32EE98, redo lsn=0/F32EE08
+2026-07-12 19:13:53.251 CST [31284] 日志:  checkpoint starting: time
+2026-07-12 19:14:46.878 CST [31284] 日志:  checkpoint complete: wrote 531 buffers (3.2%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=53.369 s, sync=0.237 s, total=53.627 s; sync files=113, longest=0.011 s, average=0.003 s; distance=3532 kB, estimate=3532 kB; lsn=0/F6A2178, redo lsn=0/F6A20E8
