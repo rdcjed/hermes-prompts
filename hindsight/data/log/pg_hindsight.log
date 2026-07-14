@@ -53,3 +53,19 @@
 2026-07-12 20:58:56.570 CST [31284] 日志:  checkpoint complete: wrote 17 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=1.708 s, sync=0.025 s, total=1.755 s; sync files=8, longest=0.012 s, average=0.004 s; distance=100 kB, estimate=3958 kB; lsn=0/121D5E08, redo lsn=0/121D5D78
 2026-07-12 21:58:54.618 CST [31284] 日志:  checkpoint starting: time
 2026-07-12 21:58:55.016 CST [31284] 日志:  checkpoint complete: wrote 3 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.325 s, sync=0.015 s, total=0.399 s; sync files=2, longest=0.013 s, average=0.008 s; distance=11 kB, estimate=3563 kB; lsn=0/121D89F0, redo lsn=0/121D8998
+2026-07-13 09:58:56.658 CST [31284] 日志:  checkpoint starting: time
+2026-07-13 09:58:57.780 CST [31284] 日志:  checkpoint complete: wrote 10 buffers (0.1%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=1.084 s, sync=0.018 s, total=1.123 s; sync files=4, longest=0.012 s, average=0.005 s; distance=57 kB, estimate=3213 kB; lsn=0/121E6F58, redo lsn=0/121E6F00
+2026-07-13 10:58:56.882 CST [31284] 日志:  checkpoint starting: time
+2026-07-13 10:58:57.462 CST [31284] 日志:  checkpoint complete: wrote 5 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.552 s, sync=0.007 s, total=0.581 s; sync files=2, longest=0.005 s, average=0.004 s; distance=21 kB, estimate=2893 kB; lsn=0/121EC730, redo lsn=0/121EC6D8
+2026-07-13 15:58:57.011 CST [31284] 日志:  checkpoint starting: time
+2026-07-13 15:59:02.808 CST [31284] 日志:  checkpoint complete: wrote 52 buffers (0.3%), wrote 1 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=5.749 s, sync=0.026 s, total=5.798 s; sync files=12, longest=0.005 s, average=0.003 s; distance=228 kB, estimate=2627 kB; lsn=0/12225798, redo lsn=0/12225740
+2026-07-13 17:00:13.720 CST [16184] 鏃ュ織:  鏃犳硶浠庡鎴风鑾峰緱鏁版嵁: An existing connection was forcibly closed by the remote host.
+	
+2026-07-13 22:41:34.009 CST [17352] 日志:  io worker (PID 27968) 被异常 0x40010004 终止
+2026-07-13 22:41:34.009 CST [17352] 提示:  关于对16进制值的描述， 参见C语言的引用文件 "ntstatus.h" 
+2026-07-13 22:41:34.009 CST [17352] 日志:  中断任何其它已激活的服务器进程
+2026-07-13 22:41:34.031 CST [17352] 日志:  所有的服务器进程被中止; 重新初始化
+2026-07-13 22:41:34.112 CST [17352] 日志:  启动进程 (PID 22256) 被异常 0xC000026B 终止
+2026-07-13 22:41:34.112 CST [17352] 提示:  关于对16进制值的描述， 参见C语言的引用文件 "ntstatus.h" 
+2026-07-13 22:41:34.112 CST [17352] 日志:  由于启动进程失败, 终止启动
+2026-07-13 22:41:34.114 CST [17352] 日志:  数据库系统已关闭
